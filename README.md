@@ -1,6 +1,6 @@
 # Credit  
 
-We user react-native-swipeout plugin for delete card
+We user react-native-swipeout plugin for delete card design
 
 ## Plugins
 
